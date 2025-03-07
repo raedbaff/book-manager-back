@@ -22,21 +22,25 @@
 ## 📦 Installation
 
 ### 1️⃣ Clone the repository
-
+```bash
 git clone <repo_url>
 cd backend
+```
 
 ### 2️⃣ Install dependencies
-
+```bash
 npm install
+```
 
 ### 3️⃣ Run database migrations
-
+```bash
 npx prisma migrate dev --name init
+```
 
 ### 5️⃣ Start the development server
-
+```bash
 npm run start:dev
+```
 
 ### ⚡ Usage
 
