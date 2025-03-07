@@ -23,8 +23,8 @@
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone <repo_url>
-cd backend
+git clone https://github.com/raedbaff/book-manager-back.git
+cd book-manager-back
 ```
 
 ### 2️⃣ Install dependencies
